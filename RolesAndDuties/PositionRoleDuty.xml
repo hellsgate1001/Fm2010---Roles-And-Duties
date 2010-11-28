@@ -1,0 +1,763 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<positions>
+  <position>
+    <name>AMC</name>
+    <role>
+      <name>Trequartista</name>
+      <duty>
+        <name>Attack</name>
+        <top>First Touch-Passing-Flair-Off The Ball</top>
+        <inter>Finishing-Technique-Anticipation-Composure-Creativity-Agility</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Inside Forward</name>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Passing-Decisions-Flair-Off The Ball-Teamwork-Acceleration</top>
+        <inter>Long Shots-Technique-Pace</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Passing-Decisions-Flair-Off The Ball-Teamwork-Acceleration</top>
+        <inter>Crossing-Finishing-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Attacking Midfielder</name>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Flair-Decisions-Teamwork-Balance</top>
+        <inter>Long Shots-Technique-Creativity-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-First Touch-Passing-Decisions-Flair-Off The Ball-Acceleration</top>
+        <inter>Technique-Creativity-Work Rate</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Advanced Playmaker</name>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Decisions-Flair-Teamwork-Stamina</top>
+        <inter>Long Shots-Technique-Creativity-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-First Touch-Passing-Decisions-Flair-Off The Ball-Teamwork</top>
+        <inter>Technique-Anticipation-Creativity</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>AML</name>
+    <role>
+      <name>Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Inside Forward</name>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Passing-Decisions-Flair-Off The Ball-Teamwork-Acceleration</top>
+        <inter>Long Shots-Technique-Pace</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Passing-Decisions-Flair-Off The Ball-Teamwork-Acceleration</top>
+        <inter>Crossing-Finishing-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Defensive Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Advanced Playmaker</name>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Decisions-Flair-Teamwork-Stamina</top>
+        <inter>Long Shots-Technique-Creativity-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-First Touch-Passing-Decisions-Flair-Off The Ball-Teamwork</top>
+        <inter>Technique-Anticipation-Creativity</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>AMR</name>
+    <role>
+      <name>Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Inside Forward</name>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Passing-Decisions-Flair-Off The Ball-Teamwork-Acceleration</top>
+        <inter>Long Shots-Technique-Pace</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Passing-Decisions-Flair-Off The Ball-Teamwork-Acceleration</top>
+        <inter>Crossing-Finishing-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Defensive Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Advanced Playmaker</name>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Decisions-Flair-Teamwork-Stamina</top>
+        <inter>Long Shots-Technique-Creativity-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-First Touch-Passing-Decisions-Flair-Off The Ball-Teamwork</top>
+        <inter>Technique-Anticipation-Creativity</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>DC</name>
+    <role>
+      <name>Limited Defender</name>
+      <duty>
+        <name>Stopper</name>
+        <top>Tackling-Aggression-Bravery</top>
+        <inter>Marking-Determination-Positioning-Jumping-Strength</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Tackling</top>
+        <inter>Marking-Determination-Positioning-Jumping-Strength</inter>
+      </duty>
+      <duty>
+        <name>Cover</name>
+        <top>Tackling-Acceleration</top>
+        <inter>Marking-Anticipation-Determination-Positioning-Jumping-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Central Defender</name>
+      <duty>
+        <name>Stopper</name>
+        <top>Heading-Tackling-Aggression-Bravery-Concentration-Decisions</top>
+        <inter>Marking-Composure-Determination-Positioning-Jumping-Strength</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Heading-Tackling-Concentration-Decisions</top>
+        <inter>Marking-Composure-Determination-Positioning-Jumping-Strength</inter>
+      </duty>
+      <duty>
+        <name>Cover</name>
+        <top>Heading-Tackling-Concentration-Decisions-Acceleration</top>
+        <inter>Marking-Anticipation-Composure-Determination-Positioning-Jumping-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Ball Playing Defender</name>
+      <duty>
+        <name>Stopper</name>
+        <top>Heading-Passing-Tackling-Aggression-Bravery-Concentration-Decisions</top>
+        <inter>Marking-Technique-Composure-Creativity-Determination-Positioning-Jumping-Strength</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Heading-Passing-Tackling-Concentration-Decisions</top>
+        <inter>Marking-Technique-Composure-Creativity-Determination-Positioning-Jumping-Strength</inter>
+      </duty>
+      <duty>
+        <name>Cover</name>
+        <top>Heading-Passing-Tackling-Concentration-Decisions</top>
+        <inter>Marking-Technique-Anticipation-Composure-Creativity-Determination-Positioning-Jumping-Strength</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>DM</name>
+    <role>
+      <name>Defensive Midfielder</name>
+      <duty>
+        <name>Support</name>
+        <top>Passing-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Marking-Positioning-Work Rate-Strength</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Tackling-Concentration-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Marking-Positioning-Work Rate-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Deep Lying Playmaker</name>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Tackling-Decisions-Off The Ball-Teamwork</top>
+        <inter>Technique-Composure-Creativity-Positioning</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Passing-Tackling-Decisions-Teamwork</top>
+        <inter>Marking-Technique-Composure-Creativity-Positioning-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Anchor Man</name>
+      <duty>
+        <name>Defend</name>
+        <top>Heading-Tackling-Concentration-Decisions</top>
+        <inter>Marking-Anticipation-Determination-Positioning-Teamwork-Strength</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>DR</name>
+    <role>
+      <name>Wing Back</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Automatic</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Full Back</name>
+      <duty>
+        <name>Attack</name>
+        <top>Tackling-Concentration-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Anticipation-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Automatic</name>
+        <top>Tackling-Concentration-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Anticipation-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Tackling-Concentration-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Anticipation-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Tackling-Concentration-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Anticipation-Positioning-Work Rate</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>DL</name>
+    <role>
+      <name>Wing Back</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Automatic</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Full Back</name>
+      <duty>
+        <name>Attack</name>
+        <top>Tackling-Concentration-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Anticipation-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Automatic</name>
+        <top>Tackling-Concentration-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Anticipation-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Tackling-Concentration-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Anticipation-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Tackling-Concentration-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Anticipation-Positioning-Work Rate</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>GK</name>
+    <role>
+      <name>Goalkeeper</name>
+      <duty>
+        <name>Defend</name>
+        <top>Aerial Ability-Handling-One On Ones-Reflexes-Concentration-Decisions</top>
+        <inter>Command Of Area-Composure-Positioning-Agility</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Sweeper Keeper</name>
+      <duty>
+        <name>Attack</name>
+        <top>Aerial Ability-Communication-Handling-Reflexes-Concentration-Decisions-Acceleration</top>
+        <inter>Command Of Area-Eccentricity-Rushing Out-Composure-Creativity-Positioning-Agility-Pace</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Aerial Ability-Communication-Handling-Reflexes-Concentration-Decisions-Acceleration</top>
+        <inter>Command Of Area-Eccentricity-Rushing Out-Composure-Creativity-Positioning-Agility-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Aerial Ability-Communication-Handling-Reflexes-Concentration-Decisions-Acceleration</top>
+        <inter>Command Of Area-Eccentricity-Rushing Out-Composure-Creativity-Positioning-Agility-Pace</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>MC</name>
+    <role>
+      <name>Deep Lying Playmaker</name>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Tackling-Decisions-Off The Ball-Teamwork</top>
+        <inter>Technique-Composure-Creativity-Positioning</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Passing-Tackling-Decisions-Teamwork</top>
+        <inter>Marking-Technique-Composure-Creativity-Positioning-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Central Midfielder</name>
+      <duty>
+        <name>Attack</name>
+        <top>First Touch-Passing-Tackling-Decisions-Off The Ball-Teamwork</top>
+        <inter>Marking-Determination-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>First Touch-Passing-Tackling-Decisions-Off The Ball-Teamwork</top>
+        <inter>Marking-Determination-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Tackling-Decisions-Off The Ball-Teamwork</top>
+        <inter>Marking-Determination-Work Rate</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Box To Box Midfielder</name>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-First Touch-Heading-Passing-Bravery-Decisions-Off The Ball-Acceleration-Stamina</top>
+        <inter>Finishing-Long Shots-Marking-Technique-Anticipation-Determination-Positioning-Work Rate-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Ball Winning Midfielder</name>
+      <duty>
+        <name>Defend</name>
+        <top>Tackling-Aggression-Bravery-Teamwork-Stamina</top>
+        <inter>Marking-Determination-Positioning-Work Rate-Strength</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Passing-Tackling-Aggression-Bravery-Teamwork-Stamina</top>
+        <inter>Marking-Determination-Work Rate-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Advanced Playmaker</name>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Decisions-Flair-Teamwork-Stamina</top>
+        <inter>Long Shots-Technique-Creativity-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-First Touch-Passing-Decisions-Flair-Off The Ball-Teamwork</top>
+        <inter>Technique-Anticipation-Creativity</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>ML</name>
+    <role>
+      <name>Defensive Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Wide Midfielder</name>
+      <duty>
+        <name>Attack</name>
+        <top>Passing-Tackling-Decisions-Off The Ball-Teamwork-Stamina</top>
+        <inter>Crossing-Anticipation-Determination-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Automatic</name>
+        <top>Passing-Tackling-Decisions-Off The Ball-Teamwork-Stamina</top>
+        <inter>Crossing-Anticipation-Determination-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Passing-Tackling-Decisions-Off The Ball-Teamwork-Stamina</top>
+        <inter>Crossing-Anticipation-Determination-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Passing-Tackling-Decisions-Off The Ball-Teamwork-Stamina</top>
+        <inter>Crossing-Anticipation-Determination-Work Rate</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>MR</name>
+    <role>
+      <name>Defensive Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Wide Midfielder</name>
+      <duty>
+        <name>Attack</name>
+        <top>Passing-Tackling-Decisions-Off The Ball-Teamwork-Stamina</top>
+        <inter>Crossing-Anticipation-Determination-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Automatic</name>
+        <top>Passing-Tackling-Decisions-Off The Ball-Teamwork-Stamina</top>
+        <inter>Crossing-Anticipation-Determination-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Passing-Tackling-Decisions-Off The Ball-Teamwork-Stamina</top>
+        <inter>Crossing-Anticipation-Determination-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Passing-Tackling-Decisions-Off The Ball-Teamwork-Stamina</top>
+        <inter>Crossing-Anticipation-Determination-Work Rate</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>SC</name>
+    <role>
+      <name>Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Decisions-Flair-Off The Ball-Acceleration-Balance</top>
+        <inter>Crossing-Technique-Agility-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Inside Forward</name>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Passing-Decisions-Flair-Off The Ball-Teamwork-Acceleration</top>
+        <inter>Long Shots-Technique-Pace</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Passing-Decisions-Flair-Off The Ball-Teamwork-Acceleration</top>
+        <inter>Crossing-Finishing-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Defensive Winger</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Strength</top>
+        <inter>Crossing-Marking-Technique-Work Rate-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Advanced Playmaker</name>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Decisions-Flair-Teamwork-Stamina</top>
+        <inter>Long Shots-Technique-Creativity-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-First Touch-Passing-Decisions-Flair-Off The Ball-Teamwork</top>
+        <inter>Technique-Anticipation-Creativity</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Trequartista</name>
+      <duty>
+        <name>Attack</name>
+        <top>First Touch-Passing-Flair-Off The Ball</top>
+        <inter>Finishing-Technique-Anticipation-Composure-Creativity-Agility</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Target  Man</name>
+      <duty>
+        <name>Attack</name>
+        <top>First Touch-Heading-Bravery-Teamwork</top>
+        <inter>Finishing-Anticipation-Determination-Work Rate-Jumping-Strength</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Heading-Aggression-Bravery-Teamwork</top>
+        <inter>Long Shots-Determination-Work Rate-Jumping-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Poacher</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-First Touch-Off The Ball-Acceleration-Balance</top>
+        <inter>Finishing-Anticipation-Composure-Agility-Pace</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Defensive Forward</name>
+      <duty>
+        <name>Attack</name>
+        <top>Tackling-Off The Ball-Teamwork-Stamina</top>
+        <inter>Finishing-Marking-Anticipation-Composure-Work Rate-Strength</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>First Touch-Passing-Tackling-Teamwork-Stamina</top>
+        <inter>Long Shots-Marking-Work Rate-Pace-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Deep Lying Forward</name>
+      <duty>
+        <name>Attack</name>
+        <top>First Touch-Passing-Decisions-Off The Ball-Balance</top>
+        <inter>Finishing-Technique-Anticipation-Composure-Creativity</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-First Touch-Passing-Decisions-Off The Ball-Teamwork</top>
+        <inter>Long Shots-Technique-Creativity-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Complete Forward</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-First Touch-Heading-Passing-Decisions-Off The Ball-Teamwork-Acceleration-Balance</top>
+        <inter>Finishing-Long Shots-Technique-Anticipation-Composure-Creativity-Determination-Agility-Jumping-Pace-Strength</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-First Touch-Heading-Passing-Decisions-Off The Ball-Teamwork-Acceleration-Balance</top>
+        <inter>Finishing-Long Shots-Technique-Anticipation-Composure-Creativity-Determination-Agility-Jumping-Pace-Strength</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Advanced Forward</name>
+      <duty>
+        <name>Attack</name>
+        <top>Decisions-Heading-Flair-Off The Ball</top>
+        <inter>Crossing-Finishing-Anticipation-Composure-Work Rate-Pace</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>SW</name>
+    <role>
+      <name>Libero</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Heading-Passing-Tackling-Concentration-Decisions-Teamwork-Acceleration-Balance</top>
+        <inter>Long Shots-Anticipation-Marking-Anticipation-Composure-Creativity-Positioning-Jumping</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Heading-Passing-Tackling-Concentration-Decisions-Teamwork-Acceleration-Balance</top>
+        <inter>Dribbling-Heading-Passing-Tackling-Concentration-Decisions-Teamwork-Acceleration-Balance</inter>
+      </duty>
+    </role>
+    <role>
+      <name>Sweeper</name>
+      <duty>
+        <name>Defend</name>
+        <top>Heading-Passing-Tackling-Concentration-Decisions-Acceleration-Balance</top>
+        <inter>Marking-Anticipation-Composure-Positioning-Jumping</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>WBL</name>
+    <role>
+      <name>Wing Back</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Automatic</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+    </role>
+  </position>
+  <position>
+    <name>WBR</name>
+    <role>
+      <name>Wing Back</name>
+      <duty>
+        <name>Attack</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Automatic</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Defend</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+      <duty>
+        <name>Support</name>
+        <top>Dribbling-Tackling-Decisions-Teamwork-Acceleration-Stamina</top>
+        <inter>Crossing-Marking-Positioning-Work Rate</inter>
+      </duty>
+    </role>
+  </position>
+</positions>

@@ -6,11 +6,7 @@ RolesAndDuties
 </name>
 </assembly>
 <members>
-<member name="T:WindowsApplication1.Database1DataSet">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>

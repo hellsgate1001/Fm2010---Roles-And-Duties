@@ -9,5 +9,4 @@ d:\hellsgates documents\visual studio 2010\Projects\RolesAndDuties\RolesAndDutie
 d:\hellsgates documents\visual studio 2010\Projects\RolesAndDuties\RolesAndDuties\obj\x86\Debug\RolesAndDuties.exe
 d:\hellsgates documents\visual studio 2010\Projects\RolesAndDuties\RolesAndDuties\obj\x86\Debug\RolesAndDuties.xml
 d:\hellsgates documents\visual studio 2010\Projects\RolesAndDuties\RolesAndDuties\obj\x86\Debug\RolesAndDuties.pdb
-d:\hellsgates documents\visual studio 2010\Projects\RolesAndDuties\RolesAndDuties\bin\Debug\Database1.sdf
 d:\hellsgates documents\visual studio 2010\Projects\RolesAndDuties\RolesAndDuties\bin\Debug\RolesAndDuties.exe.config
