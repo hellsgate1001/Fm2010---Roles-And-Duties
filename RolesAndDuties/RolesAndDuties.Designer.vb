@@ -29,8 +29,9 @@ Partial Class RolesAndDuties
         Me.mnuFileExit = New System.Windows.Forms.ToolStripMenuItem()
         Me.mnuHelp = New System.Windows.Forms.ToolStripMenuItem()
         Me.dlgOpen = New System.Windows.Forms.OpenFileDialog()
-        Me.lblPlayerName = New System.Windows.Forms.Label()
-        Me.txtTest = New System.Windows.Forms.TextBox()
+        Me.lstPlayers = New System.Windows.Forms.ListBox()
+        Me.lblPosition = New System.Windows.Forms.Label()
+        Me.tabDetails = New System.Windows.Forms.TabControl()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -39,7 +40,7 @@ Partial Class RolesAndDuties
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuFile, Me.mnuHelp})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(857, 24)
+        Me.MenuStrip1.Size = New System.Drawing.Size(995, 24)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -83,30 +84,41 @@ Partial Class RolesAndDuties
         Me.dlgOpen.FileName = "OpenFileDialog1"
         Me.dlgOpen.Filter = "CSV (*.csv)|*.csv"
         '
-        'lblPlayerName
+        'lstPlayers
         '
-        Me.lblPlayerName.AutoSize = True
-        Me.lblPlayerName.Location = New System.Drawing.Point(12, 24)
-        Me.lblPlayerName.Name = "lblPlayerName"
-        Me.lblPlayerName.Size = New System.Drawing.Size(35, 13)
-        Me.lblPlayerName.TabIndex = 1
-        Me.lblPlayerName.Text = "Name"
+        Me.lstPlayers.FormattingEnabled = True
+        Me.lstPlayers.Location = New System.Drawing.Point(12, 27)
+        Me.lstPlayers.Name = "lstPlayers"
+        Me.lstPlayers.Size = New System.Drawing.Size(206, 420)
+        Me.lstPlayers.TabIndex = 1
         '
-        'txtTest
+        'lblPosition
         '
-        Me.txtTest.Location = New System.Drawing.Point(278, 193)
-        Me.txtTest.Name = "txtTest"
-        Me.txtTest.Size = New System.Drawing.Size(100, 20)
-        Me.txtTest.TabIndex = 2
+        Me.lblPosition.AutoSize = True
+        Me.lblPosition.Location = New System.Drawing.Point(224, 27)
+        Me.lblPosition.Name = "lblPosition"
+        Me.lblPosition.Size = New System.Drawing.Size(44, 13)
+        Me.lblPosition.TabIndex = 2
+        Me.lblPosition.Text = "Position"
+        '
+        'tabDetails
+        '
+        Me.tabDetails.Location = New System.Drawing.Point(227, 43)
+        Me.tabDetails.Name = "tabDetails"
+        Me.tabDetails.SelectedIndex = 0
+        Me.tabDetails.Size = New System.Drawing.Size(770, 404)
+        Me.tabDetails.TabIndex = 0
         '
         'RolesAndDuties
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(857, 452)
-        Me.Controls.Add(Me.txtTest)
-        Me.Controls.Add(Me.lblPlayerName)
+        Me.ClientSize = New System.Drawing.Size(995, 452)
+        Me.Controls.Add(Me.tabDetails)
+        Me.Controls.Add(Me.lblPosition)
+        Me.Controls.Add(Me.lstPlayers)
         Me.Controls.Add(Me.MenuStrip1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "RolesAndDuties"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -124,7 +136,8 @@ Partial Class RolesAndDuties
     Friend WithEvents mnuFileExit As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents mnuHelp As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents dlgOpen As System.Windows.Forms.OpenFileDialog
-    Friend WithEvents lblPlayerName As System.Windows.Forms.Label
-    Friend WithEvents txtTest As System.Windows.Forms.TextBox
+    Friend WithEvents lstPlayers As System.Windows.Forms.ListBox
+    Friend WithEvents lblPosition As System.Windows.Forms.Label
+    Friend WithEvents tabDetails As System.Windows.Forms.TabControl
 
 End Class
