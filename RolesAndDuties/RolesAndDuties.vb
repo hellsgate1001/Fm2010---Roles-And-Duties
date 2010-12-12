@@ -35,7 +35,7 @@ Public Class RolesAndDuties
     Dim DutyLabel As Label() = New Label(100) {}
     Dim DutyLabelCount As Integer = 0
     Dim ScoreLabel As Label() = New Label(800) {}
-    Dim ScoreLabelCount As Integer = 0
+    Dim ScoreLabelCount As Integer
     Dim ScoreHeadings(2) As String
     Dim TabPage As Integer = 0
 
@@ -244,6 +244,7 @@ Public Class RolesAndDuties
             Next
             Me.RoleLabelCount = 0
             Me.DutyLabelCount = 0
+            Me.ScoreLabelCount = 0
             Me.RoleLabelTop = 46
             Me.lTop = 0
         End If
